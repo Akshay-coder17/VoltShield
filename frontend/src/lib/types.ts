@@ -57,10 +57,3 @@ export interface WaveDataPoint {
   bal_b: number;
   bal_c: number;
 }
-  orig_a: number;
-  orig_b: number;
-  orig_c: number;
-  bal_a: number;
-  bal_b: number;
-  bal_c: number;
-}
